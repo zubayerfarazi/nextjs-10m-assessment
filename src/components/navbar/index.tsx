@@ -1,3 +1,5 @@
+"use client"
+
 import Image from "next/image";
 import LanguageSelector from "./component/LanguageSelector";
 import { BiSearch } from "react-icons/bi";
